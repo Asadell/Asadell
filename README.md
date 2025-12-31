@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=asadell" alt="asadell" /></a> </p>
 
-- 🌱 I’m currently learning **NextJS**
+- 🌱 I’m currently learning **Solidity**
 
-- 💬 Ask me about **C++, NodeJS, ReactJS**
+- 💬 Ask me about **C++, Golang, ReactJS**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
